@@ -1,5 +1,5 @@
 {
-    "name": "netflix-clone-electron",
+    "name": "streamplay",
     "version": "1.0.0",
     "description": "Netflix Clone Electron App",
     "repository": {
@@ -22,8 +22,8 @@
         "electron-builder": "^24.13.3"
     },
     "build": {
-        "appId": "com.anto.netflixclone",
-        "productName": "Cinemax",
+        "appId": "com.anto.streamplay",
+        "productName": "Streamplay",
         "publish": [
             {
                 "provider": "github",

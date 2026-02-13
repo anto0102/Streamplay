@@ -14,7 +14,7 @@ function createWindow() {
             contextIsolation: true,
         },
         backgroundColor: '#000000',
-        title: 'Cinemax',
+        title: 'Streamplay',
     });
 
     win.setMenuBarVisibility(false);
